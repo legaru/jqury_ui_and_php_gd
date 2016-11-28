@@ -8,7 +8,7 @@
 	<script type="text/javascript" src="/js/main.js"></script>
 	<link rel="stylesheet" type="text/css" href="/css/main.css" /> 
 	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css" />
-	<title>Test page</title>
+	<title>Test page 2</title>
 </head> 
  
 <body> 
